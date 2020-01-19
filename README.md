@@ -1,6 +1,6 @@
 # GMM_Digital_Voice_Recognition
 
-基于GMM与MFCC特征进行数字0-9的语音识别，GMM，MFCC，语音识别，中文数据，sklearn，Digital Voice Recognition。
+基于GMM与MFCC特征进行数字0-9的语音识别，GMM，MFCC，语音识别，中文数据，sklearn，scikit-learn，Digital Voice Recognition。
 
 
 ## Preinstallation

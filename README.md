@@ -22,7 +22,6 @@
   unzip /tmp/dataset.zip -d ./  # dataset.zip是从百度网盘下载的数据
   python speaker-recognition.py -t enroll -i  "./data_zh_1/*/"  -m model.out
   python speaker-recognition.py -t predict  -i  "./data_zh_test_1/*/"  -m model.out
-  
 ```
 
 [HMM实现](https://github.com/zhengyima/HMM_Digital_Voice_Recognition)
